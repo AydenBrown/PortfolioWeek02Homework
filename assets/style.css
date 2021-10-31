@@ -4,10 +4,14 @@
     margin: 0;
 }
 
+body {
+    background: rgb(48, 47, 47);
+}
+
 .header {
     padding: 30px;
     font-family: 'Trebuchet MS', sans-serif;
-    background-color: #252525;
+    background-color: #1b1b1b;
     color: #ffffff;
 }
 
@@ -33,4 +37,24 @@ a {
 h1 {
     display: inline-block;
     font-size: 48px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin-left: 90px;
+}
+
+section {
+    display: flex;
+}
+
+.sections {
+    padding: 50px;
+    height: 800px;
+    width: 400px;
+    margin-left: 170px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #1b1b1b;
 }
