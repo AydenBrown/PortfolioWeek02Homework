@@ -73,3 +73,15 @@ p {
     font-size: 20px;
     font-family: 'Trebuchet MS', sans-serif;
 }
+
+.underline {
+    text-decoration: underline;
+}
+
+#FoovieLogo {
+    width: 150%;
+    height: 40%;
+    padding-right: 160px;
+}
+
+
